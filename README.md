@@ -13,16 +13,21 @@ Ce mod rassemble la majorité des features de clair obscur adaptés a minecraft
 ---
 
 ## 🧩 Fonctionnalités principales
-- Le systéme de lumina
-- les pictos 
-- le gameplay de chaques personnages (Maelle,Verso, Sciel, Lune, Gustave, Monoco) 
-- les armes de chaques personnages (a l'exception des armes de sciel qui viendront un peu plus tard, le temps de maitriser blockbench) 
+- Le systéme de statistique
+- le systéme de picto
+- l'intégralité du gameplay de chaques persos 
+- les armes de chaques personnages 
 - les effets de chaques armes
-- le systéme d'amélioration de chaques armes 
-- le systéme d'attaques de chaques personnages 
-- certains items
-- le systéme d'élément du jeu 
-- un arbre de succés complet, reprenant pas mal de succés du jeu et en ajoutant de nouveaux 
+- le systéme d'amélioration de chaques armes
+- CHAQUES CD DE MUSIQUE 
+- toutes les compétences ! 
+- certains items comme le flacon de chroma
+- l'intégralité des buff/debuff du jeu 
+- le systéme d'élément du jeu (Clair, néant, etc) 
+- un arbre de succés complet, reprenant pas mal de succés du jeu et en ajoutant de nouveaux
+- une dimension accéssible depuis une structure dans l'overworld !
+- le manoir, intégralement build avec chaques tableaux dedans !
+- certains boss ! 
 
 ---
 
